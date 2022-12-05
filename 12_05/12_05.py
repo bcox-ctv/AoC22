@@ -1,3 +1,5 @@
+#I got to wrapped up in the input that I needed a crutch, thanks Jason
+
 # file1 = open('12_05/test_input.txt')
 file1 = open('12_05/advent_5_input.txt')
 
